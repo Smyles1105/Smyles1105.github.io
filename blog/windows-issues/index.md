@@ -1,27 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>HTML 5 Boilerplate</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <script src="index.js"></script>
-    <h1>Blog</h1>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="blog/index.html">Blog</a>
-      <a href="portfolio.html">Portfolio</a>
-      <a href="about.html">About</a>
-      
-    </nav>
+[Home](../../index.html)
+[Troubleshooting Logs](../index.md)
+[Linux Issues](../linux-issues/index.md)
+[Networking Issues](../networking-issues/index.md)
 
-    <h2>Troubleshooting Logs</h2>
-    <a href="blog/linux-issues/index.html">Linux</a>
-    <a href="blog/networking-issues/index.html">Networking</a>
-    <a href="blog/windows-issues/index.html">Windows</a>
-    
-  </body>
-</html>
+### Windows Issues
+
+[Windows Issue Title](windows-issue-1.md)
