@@ -1,4 +1,4 @@
 title: "Troubleshooting Logs"
 theme: jekyll-theme-cayman
 markdown: kramdown
-blog: /blog/:title/
+permalink: /blog/:title/

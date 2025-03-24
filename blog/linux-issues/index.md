@@ -24,9 +24,12 @@
     <a href="blog/windows-issues/index.html">Windows</a>
     
     <h2>Linux Issues</h2>
-    <a href="blog/linux-issues/linux-issue-1.html">Linux Issue 1</a>
-    <a href="blog/linux-issues/linux-issue-2.html">Linux Issue 2</a>
+    <a href="blog/linux-issues/linux-issue-1.md">Linux Issue 1</a>
+    <a href="blog/linux-issues/linux-issue-2.md">Linux Issue 2</a>
     <a href="blog/linux-issues/linux-issue-3.html">Linux Issue 3</a>
+
+    <h2>Linux Issue 1: Issue Title</h3>
+    <h3></h3>
 
   </body>
 </html>
