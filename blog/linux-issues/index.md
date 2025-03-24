@@ -1,7 +1,7 @@
 \|[Home](../../index.html)
 \|[Troubleshooting Logs](../index.md)
 \|
-
+---------------
 \|[Networking Issues](../networking-issues/index.md)
 \|[Windows Issues](../windows-issues/index.md)
 \|
