@@ -1,3 +1,9 @@
+---
+layout: default
+title: Now
+nav_order: 4
+---
+
 ## Now
 
 Updated: May 2025
