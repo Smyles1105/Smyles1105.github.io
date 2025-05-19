@@ -1,4 +1,8 @@
-[Home](../index.html)
+---
+layout: default
+title: blog
+nav_order: 3
+---
 
 ### Troubleshooting Logs
 
