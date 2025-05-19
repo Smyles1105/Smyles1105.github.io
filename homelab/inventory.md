@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Homelab Inventory
+parent: overview.md
 ---
 
 # Homelab Inventory:
