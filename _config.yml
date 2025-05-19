@@ -4,7 +4,10 @@ baseurl: ""
 
 url: "https://myleswolfe.ca/"
 
-theme: jekyll-theme-midnight
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
 layout: default
 
 markdown: kramdown
