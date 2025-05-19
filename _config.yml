@@ -4,7 +4,7 @@ baseurl: ""
 
 url: "https://myleswolfe.ca/"
 
-theme: jekyll-theme-cayman
+theme: just-the-docs
 
 markdown: kramdown
 
