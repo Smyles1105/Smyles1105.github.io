@@ -1,4 +1,13 @@
-title: "Troubleshooting Logs"
+title: "Smyles1105's lab notes"
+
+baseurl: ""
+
+url: "https://myleswolfe.ca/"
+
 theme: jekyll-theme-cayman
+
 markdown: kramdown
-permalink: /blog/:title/
+
+author: 
+    name: "Smyles1105"
+    email: "mylesw6575@gmail.com"
