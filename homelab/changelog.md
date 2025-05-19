@@ -1,3 +1,9 @@
+---
+layout: default
+title: Homelab Changelog
+parent: overview.md
+---
+
 ## Change Log
 
 ### May 2025
