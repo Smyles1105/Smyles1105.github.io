@@ -1,3 +1,5 @@
+## Change Log
+
 ### May 2025
 - Purchased Lenovo M920q for dedicated proxmox host.
 - Rebuilding Raspberry Pi with fresh RPi OS, dnsmasq and PiVPN
