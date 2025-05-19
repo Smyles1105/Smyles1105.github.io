@@ -20,8 +20,8 @@ The homelab exists to support:
 
 ## Explore My Homelab
 
-- [Inventory]({{ site.baseurl }}/homelab/inventory.md) — Hardware, devices, and layout
-- [Changelog]({{ site.baseurl }}/homelab/changelog.md) — Timeline of changes, improvements, and deployments
+- [Inventory]({{ site.baseurl }}/homelab/inventory) — Hardware, devices, and layout
+- [Changelog]({{ site.baseurl }}/homelab/changelog) — Timeline of changes, improvements, and deployments
 
 More detailed project pages coming soon.
 
