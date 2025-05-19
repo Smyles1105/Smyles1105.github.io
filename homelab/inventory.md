@@ -1,3 +1,8 @@
+---
+layout: default
+title: Homelab Inventory
+---
+
 # Homelab Inventory:
 
 ## Main Devices:
