@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Homelab Changelog
-parent: overview.md
+parent: Homelab Overview
+nav_order: 1
 ---
 
 ## Change Log
