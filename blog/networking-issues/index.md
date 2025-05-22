@@ -1,10 +1,13 @@
-\|[Home](../../index.html)
-\|[Troubleshooting Logs](../index.md)
-\|
-* * *
-\|[Linux Issues](../linux-issues/index.md)
-\|[Windows Issues](../windows-issues/index.md)
-\|
+---
+layout: default
+title: Networking Issues
+nav_order: 2
+parent: Blog
+permalink: /networking-issues/
+---
+
 ### Networking Issues
 
 [Networking Issue Title](networking-issue-1.md)
+
+
