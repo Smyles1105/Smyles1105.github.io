@@ -3,6 +3,7 @@ layout: default
 title: Blog
 nav_order: 3
 permalink: /blog/
+has_toc: false
 ---
 
 ### Troubleshooting Logs
