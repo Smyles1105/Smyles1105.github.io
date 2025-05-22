@@ -2,6 +2,7 @@
 layout: default
 title: Inventory
 parent: Homelab Overview
+nav_order: 2
 ---
 
 # Homelab Inventory:
