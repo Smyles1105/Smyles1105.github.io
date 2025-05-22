@@ -7,7 +7,7 @@ nav_order: 1
 # My Homelabbing Website
 
 - [Home](/index)
-- [Homelab](/homelab/overview)
+- [Homelab](/homelab/index)
 - [Troubleshooting Logs](/blog/index)
 - [Now](/now)
 
