@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Homelab Inventory
-parent: overview.md
+title: Inventory
+parent: Homelab Overview
 ---
 
 # Homelab Inventory:
