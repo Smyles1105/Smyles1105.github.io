@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homelab Changelog
+title: Changelog
 parent: Homelab Overview
 nav_order: 1
 ---
