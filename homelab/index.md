@@ -2,6 +2,7 @@
 layout: default
 title: Homelab
 nav_order: 2
+permalink: /homelab/
 ---
 
 # Homelab Overview
