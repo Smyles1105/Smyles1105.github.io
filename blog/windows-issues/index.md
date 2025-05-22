@@ -1,10 +1,12 @@
-\|[Home](../../index.html)
-\|[Troubleshooting Logs](../index.md)
-\|
-* * *
-\|[Linux Issues](../linux-issues/index.md)
-\|[Networking Issues](../networking-issues/index.md)
-\|
+---
+layout: default
+title: Windows Issues
+parent: Blog
+nav_order: 3
+permalink: /windows-issues/
+---
+
 ### Windows Issues
 
 [Windows Issue Title](windows-issue-1.md)
+
