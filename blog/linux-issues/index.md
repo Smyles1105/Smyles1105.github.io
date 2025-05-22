@@ -1,3 +1,12 @@
+---
+layout: default
+title: Linux Issues
+nav_order: 1
+permalink: /linux-issues/
+parent: Blog
+---
+
+
 \|[Home](../../index.html)
 \|[Troubleshooting Logs](../index.md)
 \|
