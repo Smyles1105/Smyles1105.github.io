@@ -1,8 +1,9 @@
-[Home](../../index.html)
-[Troubleshooting Logs](../index.md)
-
-[Linux Issues](../linux-issues/index.md)
-[Networking Issues](../networking-issues/index.md)
-[Windows Issues](../windows-issues/index.md)
+---
+layout: default
+title: Networking Issue 1
+parent: Networking Issues
+nav_order: 1
+---
 
 ### Networking Issue Title
+
