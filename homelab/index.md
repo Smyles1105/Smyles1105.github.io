@@ -20,7 +20,6 @@ The homelab exists to support:
 ## Current Lab Focus Areas
 
 - Migrating core services to a dedicated Proxmox host (Lenovo M920q)
-- Rebuilding local DNS + VPN via Raspberry Pi 4
 - Creating documentation for service setup and configuration
 - Preparing a Windows AD lab environment for testing and deployment exercises
 
