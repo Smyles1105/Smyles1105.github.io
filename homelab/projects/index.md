@@ -10,6 +10,6 @@ permalink: /projects/
 
 ## Homelab Projects
 
-[DNSMASQ]({{ site.baseurl }}/homelab/projects/dnsmasq)
+- [DNSMASQ]({{ site.baseurl }}/homelab/projects/dnsmasq)
 
-[Windows Active Directory Lab]({{ site.baseurl }}/homelab/projects/active-directory-lab)
+- [Windows Active Directory Lab]({{ site.baseurl }}/homelab/projects/active-directory-lab)
