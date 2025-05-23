@@ -9,4 +9,6 @@ parent: Homelab
 
 ## Homelab Projects
 
-[DNSMASQ]()
+[DNSMASQ]({{ site.baseurl }}/homelab/projects/dnsmasq)
+
+Changelog]({{ site.baseurl }}/homelab/changelog)
