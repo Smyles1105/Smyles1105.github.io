@@ -7,6 +7,20 @@ nav_order: 1
 
 ## Change Log
 
+### 2025-05-27 Thinkcentre m920q setup
+
+- Booted into preinstalled Windows 11 Pro to confirm hardware specs (i5-8500t, 32GB RAM, 512GB SSD)
+- Created Proxmox installation media and installed Proxmox VE
+- Deployed existing VMs: Windows 10 Enterprise LTSC, Windows Server 2019 LTSC, and Ubuntu MATE Desktop
+- Encountered storage driver issues with Windows VMs; resolved using [Proxmox best practices](https://pve.proxmox.com/wiki/Windows_2019_guest_best_practices) and VirtIO drivers.
+
+**Laptop Windows reinstallation prep - deferred until thinkcentre became proxmox host**
+- Required Proxmox on Thinkcentre to wipe Proxmox on laptop.
+- Identified USB drive failure when preparing Windows 11 media for laptop reinstall (needed for OnVue Exams (A+))
+- Ordered replacement USBs for OS setup and file transfers.
+- Reinstallation planned after drives arrive.
+
+
 ### 2025-05-21 VPN Testing (WireGuard via Pi)
 
 - configured PiVPN (WireGuard) on Raspberry Pi after reimaging with static IP and UDP 51825 - also tested ports 443 and 51820 
