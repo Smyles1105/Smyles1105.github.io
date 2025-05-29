@@ -7,6 +7,21 @@ nav_order: 1
 
 ## Change Log
 
+### 2025-05-29 Laptop Windows Reinstallation
+
+- Created Windows 10 installation media using a spare laptop
+- Installed Windows 10
+- Uninstalled unnecessary preinstalled software
+- Installed desired software:
+  - Anki - flashcards
+  - Quizfaber - timed practice quizzes
+  - Obsidian - knowledge base
+  - GitHub Desktop - version control for this website
+  - VS Code - IDE and Markdown editor for scripting and documentation
+  - Git - version control backend
+- Wiped USB installer
+
+
 ### 2025-05-27 Thinkcentre m920q setup
 
 - Booted into preinstalled Windows 11 Pro to confirm hardware specs (i5-8500t, 32GB RAM, 512GB SSD)
