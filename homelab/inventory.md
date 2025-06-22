@@ -16,3 +16,5 @@ nav_order: 2
  - T3200M Router
  - DLink DES-1016d 16 port unmanaged switch
 
+## External Devices
+ - USB 3.1 Gen 2 Lexar Jumpdrives - 3 * 32 GB pack
