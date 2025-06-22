@@ -8,7 +8,7 @@ parent: Projects
 > [!NOTE]
 > **Page in Development**  
 > This page is still under construction.
-> Please check in again soon for content.
+> Please check in again soon for updates.
 
 ### DNSMASQ
 
@@ -17,13 +17,21 @@ parent: Projects
 
 /etc/dnsmasq.conf - points to dnsmasq.d/ to use additional configuration files.
 
+
 dnsmasq.d/
+
 -- arecords.conf
+
 -- dhcp.conf
+
 -- dns.conf
+
 -- leases.conf
+
 -- logging.conf
+
 -- main.conf
+
 -- ptr-records.conf
 
 
@@ -51,7 +59,7 @@ I've sorted the main configuration options that cover dnsmasq overall in the abo
 
 #### dns.conf
 ```
-
+#Being Updated
 ```
 
 #### arecords.conf
@@ -72,6 +80,7 @@ An A record basically allows you to map an IP address to an assigned domain. In 
 #### ptr-records.conf
 ```
 #PTR records, AKA pointer records.
+#Being Updated
 
 ```
 
@@ -131,8 +140,5 @@ log-facility=/var/log/dnsmasq.log #location of log file to output logged traffic
 ```
 
 I set these options in a separate file so I'm not opening up another file and accidentally changing one of the options I don't want to change. I also wrote a script so that I can easily toggle it on or toggle it off in the event I need to do a bit of troubleshooting.
-
->Please update the below link:
-
 
 Please see my toggle script for more info: [toggle_dnsmasq_logging](https://github.com/Smyles1105/scripts/blob/main/toggle_dnsmasq_logging.sh)
